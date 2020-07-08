@@ -10,7 +10,7 @@ devices. Instructions to get the bot working for you are listed below.
 
 Big thanks to cortex#9689 for helping with tile recognition.
 
-SetBot in action: *put YouTube link here*
+SetBot in action: https://youtu.be/rNeaEW2lWs8
 
 ## How to use it
 Once everything's been set up properly, start a new game in Set with Friends and set the display to dark mode. 
